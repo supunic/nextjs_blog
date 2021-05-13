@@ -32,7 +32,7 @@ const handlers = [
           {
             id: 1,
             title: 'title1',
-            constent: 'content1',
+            content: 'content1',
             username: 'username1',
             tags: [
               { id: 1, name: 'tag1' },
@@ -43,7 +43,7 @@ const handlers = [
           {
             id: 2,
             title: 'title2',
-            constent: 'content2',
+            content: 'content2',
             username: 'username2',
             tags: [
               { id: 1, name: 'tag1' },
